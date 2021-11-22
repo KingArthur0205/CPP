@@ -1,6 +1,6 @@
 # CPP
 **My self-study guide on learning CPP**<br>
-*All of the notes are color-coded. Each color stands for a different meaning.
+*All of the notes are color-coded. Each color stands for a different meaning.*
 > + Blue: Definitions
 > + Orange: Title of A New Concept
 > + Yellow: Operations/Important Ideas
