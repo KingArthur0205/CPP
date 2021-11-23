@@ -19,3 +19,4 @@
 > 3. [Identifiers&Reference](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_five.pdf)
 > 4. [Pointers](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_five(2).pdf)
 > 5. [Const Quantifier](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_six.pdf)
+> 6. [Const Continue](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_six(2).pdf)
