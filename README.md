@@ -27,6 +27,6 @@
 > &emsp; 3. [Const Cotinue(2)](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_six(3).pdf)
 > 5. Deal with Types <br>
 > &emsp; 1. [Type Alias&Keyword auto](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_seven.pdf)
-> &emsp; 2. [Keyword Decltype](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_seven(2).pdf）
-> 6. Define Our Own Data Structure
+> &emsp; 2. [Keyword Decltype](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_seven(2).pdf)
+> 6. Define Our Own Data Structure <br>
 > &emsp; 1. [Struct Data Type&Preprocessor](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_seven(3).pdf)
