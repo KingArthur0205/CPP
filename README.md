@@ -21,3 +21,4 @@
 > 5. [Const Quantifier](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_six.pdf)
 > 6. [Const Continue](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_six(2).pdf)
 > 7. [Const Cotinue(2)](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_six(3).pdf)
+> 8. [Type Alias&Keyword auto](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_seven.pdf)
