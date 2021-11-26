@@ -30,3 +30,4 @@
 > &emsp; 2. [Keyword Decltype](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_seven(2).pdf)
 > 6. Define Our Own Data Structure <br>
 > &emsp; 1. [Struct Data Type&Preprocessor](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_seven(3).pdf)
+> + Chapter3: Strings, Vectors, and Arrays
