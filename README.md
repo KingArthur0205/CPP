@@ -40,3 +40,6 @@
 > &emsp; 4. [Subscript and Iteration](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_nine.pdf)
 > 3. Library Vector Type <br>
 > &emsp; 1. [Intro to Vector](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_nine(2).pdf)
+> &emsp; 2. [Vector Operations](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_nine(3).pdf)
+> 4. Iterators <br>
+> &emsp; 1.[Intro to Iterators](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_nine(3).pdf)
