@@ -36,3 +36,4 @@
 > 2. Library String Type <br>
 > &emsp; 1.[Defining and Initialzing Strings](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_eight.pdf)
 > &emsp; 2. [String Operations](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_eight(2).pdf)
+> &emsp; 3. [For Each Loop](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_eight(3).pdf)
