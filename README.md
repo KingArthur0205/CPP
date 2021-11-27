@@ -34,7 +34,9 @@
 > 1. Namespace using Declarators <br>
 > &emsp; 1. [Namespace using Declarators](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_eight.pdf)
 > 2. Library String Type <br>
-> &emsp; 1.[Defining and Initialzing Strings](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_eight.pdf)
+> &emsp; 1. [Defining and Initialzing Strings](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_eight.pdf)
 > &emsp; 2. [String Operations](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_eight(2).pdf)
 > &emsp; 3. [For Each Loop](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_eight(3).pdf)
 > &emsp; 4. [Subscript and Iteration](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_nine.pdf)
+> 3. Library Vector Type <br>
+> &emsp; 1. [Intro to Vector](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_nine(2).pdf)
