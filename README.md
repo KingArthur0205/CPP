@@ -45,3 +45,5 @@
 > &emsp; 1. [Intro to Iterators](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_nine(3).pdf)
 > &emsp; 2. [Using Iterators](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_nine(4).pdf)
 > &emsp; 3. [Iterator Arithmetic](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_ten.pdf)
+> 5. Arrays <br>
+> &emsp; 1. [Define an Array&Access Elements in an Array](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_ten(2).pdf)
