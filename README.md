@@ -47,3 +47,4 @@
 > &emsp; 3. [Iterator Arithmetic](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_ten.pdf)
 > 5. Arrays <br>
 > &emsp; 1. [Define an Array&Access Elements in an Array](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/%E3%80%90CPP%E3%80%91Day_ten(2).pdf)
+> &emsp; 2. [C-Style String](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch3/%E3%80%90CPP%E3%80%91Day_eleven.pdf)
