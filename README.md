@@ -54,3 +54,6 @@
 > &emsp; 1. [Associativity&Precedence](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch4%20Expressions/%E3%80%90CPP%E3%80%91Day_twelve.pdf)
 > 2. Arithmetic Operators <br>
 > &emsp; 1. [Arithmetic Operators](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch4%20Expressions/%E3%80%90CPP%E3%80%91Day_twelve.pdf)
+> 3. [Logical and Relational Operator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch4%20Expressions/%E3%80%90CPP%E3%80%91Day_twelve(2).pdf) <br>
+> 4. [Assignment Operator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch4%20Expressions/%E3%80%90CPP%E3%80%91Day_twelve(2).pdf) <br>
+> 5. [Increment and Decrement Operator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch4%20Expressions/%E3%80%90CPP%E3%80%91Day_twelve(2).pdf)<br>
