@@ -57,3 +57,5 @@
 > 3. [Logical and Relational Operator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch4%20Expressions/%E3%80%90CPP%E3%80%91Day_twelve(2).pdf) <br>
 > 4. [Assignment Operator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch4%20Expressions/%E3%80%90CPP%E3%80%91Day_twelve(2).pdf) <br>
 > 5. [Increment and Decrement Operator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch4%20Expressions/%E3%80%90CPP%E3%80%91Day_twelve(2).pdf)<br>
+> 6. [The Member Access Operator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch4%20Expressions/%E3%80%90CPP%E3%80%91Day_twelve(3).pdf) <br>
+> 7. [The Conditional Operator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch4%20Expressions/%E3%80%90CPP%E3%80%91Day_twelve(3).pdf) <br>
