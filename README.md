@@ -59,3 +59,6 @@
 > 5. [Increment and Decrement Operator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch4%20Expressions/%E3%80%90CPP%E3%80%91Day_twelve(2).pdf)<br>
 > 6. [The Member Access Operator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch4%20Expressions/%E3%80%90CPP%E3%80%91Day_twelve(3).pdf) <br>
 > 7. [The Conditional Operator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch4%20Expressions/%E3%80%90CPP%E3%80%91Day_twelve(3).pdf) <br>
+> 8. [Sizeof Operator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch4%20Expressions/%E3%80%90CPP%E3%80%91Day_13.pdf) <br>
+> 9. Type Conversion <br>
+> &emsp; 1.[The arithmetic Conversion](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch4%20Expressions/%E3%80%90CPP%E3%80%91Day_13.pdf)
