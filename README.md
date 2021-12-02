@@ -9,7 +9,7 @@
 > + Pink: Title of a Minor Concept
 <br>
 
-> <strong> [《C++ Primer》](https://github.com/KingArthur0205/CPP/blob/main/Electronic%20Version%20Book/C%2B%2B%20Primer%205th%20En.pdf)
+# <strong> [《C++ Primer》](https://github.com/KingArthur0205/CPP/blob/main/Electronic%20Version%20Book/C%2B%2B%20Primer%205th%20En.pdf)
 ## Chapter1: Introduction
 1. [Input/Output Stream](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch1%20Getting%20Started/%E3%80%90CPP%E3%80%91Day_one.pdf)
 2. [Comments & Compilation Errors](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch1%20Getting%20Started/%E3%80%90CPP%E3%80%91Day_two.pdf)
