@@ -67,4 +67,4 @@
 1. [Simple Statements](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch5%20Statements/%E3%80%90CPP%E3%80%91Day13(3).pdf)
 2. [Iterative Statements](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch5%20Statements/%E3%80%90CPP%E3%80%91Day14.pdf)
 3. [Jump Statement](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch5%20Statements/%E3%80%90CPP%E3%80%91Day14(2).pdf)
-4. [Exception Handling]()
+4. [Exception Handling](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch5%20Statements/%E3%80%90CPP%E3%80%91Day14(3).pdf)
