@@ -9,7 +9,7 @@
 > + Pink: Title of a Minor Concept
 <br>
 
-> <strong> [《C++ Primer》](https://github.com/KingArthur0205/CPP/blob/main/Electronic%20Version%20Book/C%2B%2B%20Primer%205th%20En.pdf)
+# <strong> [《C++ Primer》](https://github.com/KingArthur0205/CPP/blob/main/Electronic%20Version%20Book/C%2B%2B%20Primer%205th%20En.pdf)
 ## Chapter1: Introduction
 1. [Input/Output Stream](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch1%20Getting%20Started/%E3%80%90CPP%E3%80%91Day_one.pdf)
 2. [Comments & Compilation Errors](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch1%20Getting%20Started/%E3%80%90CPP%E3%80%91Day_two.pdf)
@@ -66,3 +66,7 @@
 ## Chapter5: Statements 
 1. [Simple Statements](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch5%20Statements/%E3%80%90CPP%E3%80%91Day13(3).pdf)
 2. [Iterative Statements](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch5%20Statements/%E3%80%90CPP%E3%80%91Day14.pdf)
+3. [Jump Statement](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch5%20Statements/%E3%80%90CPP%E3%80%91Day14(2).pdf)
+4. [Exception Handling](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch5%20Statements/%E3%80%90CPP%E3%80%91Day14(3).pdf)
+## Chapter6: Functions
+1. [Function Basics](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch6%20Functions/%E3%80%90CPP%E3%80%91Day15.pdf)
