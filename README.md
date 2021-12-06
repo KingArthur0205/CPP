@@ -72,3 +72,4 @@
 1. [Function Basics](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch6%20Functions/%E3%80%90CPP%E3%80%91Day15.pdf)
 2. Argument Passing <br>
 &emsp; 1. [Pass Arguments by Value&Reference](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch6%20Functions/%E3%80%90CPP%E3%80%91Day16.pdf)
+&emsp; 2. [Const Parameter](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch6%20Functions/%E3%80%90CPP%E3%80%91Day16(2).pdf)
