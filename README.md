@@ -70,5 +70,5 @@
 4. [Exception Handling](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch5%20Statements/%E3%80%90CPP%E3%80%91Day14(3).pdf)
 ## Chapter6: Functions
 1. [Function Basics](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch6%20Functions/%E3%80%90CPP%E3%80%91Day15.pdf)
-2. Argument Passing
+2. Argument Passing <br>
 &emsp; 1. [Pass Arguments by Value&Reference](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch6%20Functions/%E3%80%90CPP%E3%80%91Day16.pdf)
