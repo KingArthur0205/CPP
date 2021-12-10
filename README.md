@@ -82,3 +82,6 @@
 &emsp; 2. [Inline and Constexpr Functions](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch6%20Functions/%E3%80%90CPP%E3%80%91Day18(2).pdf)
 6. [Function Matching](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch6%20Functions/%E3%80%90CPP%E3%80%91Day19.pdf) <br>
 7. [Function Pointer](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch6%20Functions/%E3%80%90CPP%E3%80%91Day20.pdf) <br>
+## Chapter7: Classes
+1. Defining Abstract Data Types <br>
+&emsp; 1. [Define struct Class&Keyword this](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day20(2).pdf)
