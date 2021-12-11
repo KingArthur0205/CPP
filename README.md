@@ -85,3 +85,4 @@
 ## Chapter7: Classes
 1. Defining Abstract Data Types <br>
 &emsp; 1. [Define struct Class&Keyword this](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day20(2).pdf)
+&emsp; 2. [Define Member Function](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day21.pdf)
