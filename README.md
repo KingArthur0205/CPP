@@ -88,3 +88,4 @@
 &emsp; 2. [Define Member Function](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day21.pdf)
 &emsp; 3. [Define Nonmember Function](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day22.pdf)
 &emsp; 4. [Constructors](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day23.pdf)
+2. [Encapsulation](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day23(2).pdf)
