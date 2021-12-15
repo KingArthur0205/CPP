@@ -89,3 +89,5 @@
 &emsp; 3. [Define Nonmember Function](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day22.pdf)
 &emsp; 4. [Constructors](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day23.pdf)
 2. [Encapsulation](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day23(2).pdf)
+3. Additional Class Features <br>
+&emsp; 1. [Define In-Class Type, Inline Functions, Overloading Functions, and Mutable Members](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day24.pdf)
