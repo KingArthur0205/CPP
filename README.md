@@ -93,3 +93,4 @@
 &emsp; 1. [Define In-Class Type, Inline Functions, Overloading Functions, and Mutable Members](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day24.pdf)
 &emsp; 2. [Return *this](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day24(2).pdf)
 &emsp; 3. [Class Type and Friendship Revisit](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day25.pdf)
+4. [Class Scope](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day25(2).pdf) <br>
