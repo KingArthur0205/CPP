@@ -1,38 +1,50 @@
-#include <iostream>
-#include <vector>
 #include <string>
-
-using std::vector;
-using std::cout;
-using std::cin;
-using std::endl;
-using std::cin;
-using std::cout;
-using std::istream;
-using std::ostream;
-using std::string;
+#include <iostream>
 
 class Sales_data;
+std::istream &read(std::istream &, Sales_data &);
 
 class Sales_data {
-	// friend declarations for nonmbmer Sales_data operations added
-	friend std::istream &read(std::istream&, Sales_data&);
-	friend std::ostream &print(std::ostream&, const Sales_data&);
+  friend Sales_data add(const Sales_data &, const Sales_data &);
+  friend std::istream &read(std::istream &, Sales_data &);
+  friend std::ostream &print(std::ostream &, const Sales_data &);
 
-public: // access specifier added
-	Sales_data() = default; 
-	Sales_data(const std::string &s, unsigned n, double p): bookNo(s), units_sold(n), revenue(p*n) { } 
-	Sales_data(const std::string &s): bookNo(s) { } 
-	Sales_data(std::istream& is) {
-		read(is, *this);
-	}
-	std::string isbn() const { return bookNo; } 
-	Sales_data &combine(const Sales_data&);
+public:
+  //nondelegating constructors
+  Sales_data() : bookNo(""), units_sold(0), revenue(0.0) {}
+  Sales_data(const std::string &no) : bookNo(no) {}
+  Sales_data(const std::string &no, unsigned us, double price)
+      : bookNo(no), units_sold(us), revenue(price * us) {}
+  Sales_data(std::istream &is) {
+    read(is, *this);
+  }
 
-private: // access specifier added
-	double avg_price() const { return units_sold ? revenue/units_sold : 0; } 
-	std::string bookNo; unsigned units_sold = 0; double revenue = 0.0;
+  //delegating constructors
+  Sales_data(const unsigned u_sold) : Sales_data() { 
+    units_sold = u_sold;
+    std::cout << "This is a delegating constructor" << std::endl; 
+  }
+
+  std::string isbn() const { return bookNo; }
+  Sales_data &combine(const Sales_data &);
+
+private:
+  std::string bookNo;
+  unsigned units_sold = 0;
+  double revenue = 0.0;
 };
+
+Sales_data &Sales_data::combine(const Sales_data &rhs) {
+  units_sold += rhs.units_sold;
+  revenue += rhs.revenue;
+  return *this;
+}
+
+Sales_data add(const Sales_data &lhs, const Sales_data &rhs) {
+  Sales_data sum = lhs;  // Use default copy constructor
+  sum.combine(rhs);
+  return sum;
+}
 
 std::istream &read(std::istream &is, Sales_data &item) {
   double price;
@@ -41,16 +53,25 @@ std::istream &read(std::istream &is, Sales_data &item) {
   return is;
 }
 
-std::ostream &print(ostream& os, const Sales_data &data) {
-	os << data.bookNo << "" << data.units_sold << "" << data.revenue;
-	return os;
+std::ostream &print(std::ostream &os, const Sales_data &item) {
+  os << item.isbn() << " " << item.units_sold << " " << item.revenue;
+  return os;
 }
 
-
 int main() {
-	Sales_data item = Sales_data();
-	Sales_data item2 = Sales_data("243", 3, 12.0);
-	cout << item2.isbn() << endl;
-	cout << item.isbn() << endl;
-	return 0;
+  Sales_data d1;
+  Sales_data d2("0-201-78345-X");
+  Sales_data d3("0-201-78345-X", 5, 2.5);
+  //Sales_data d4(std::cin);
+  Sales_data d5(3);
+
+  print(std::cout, d1) << std::endl;
+  print(std::cout, d2) << std::endl;
+  print(std::cout, d3) << std::endl;
+  //print(std::cout, d4) << std::endl;
+  print(std::cout, d5) << std::endl;
+
+  
+
+  return 0;
 }
