@@ -5,7 +5,7 @@
 > + Orange: Title of A New Concept
 > + Yellow: Operations/Important Ideas
 > + Red: Warning
-> + Purple: Things to Note
+> + Purple: Things to be Noted
 > + Pink: Title of a Minor Concept
 <br>
 
