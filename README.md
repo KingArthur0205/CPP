@@ -5,7 +5,7 @@
 > + Orange: Title of A New Concept
 > + Yellow: Operations/Important Ideas
 > + Red: Warning
-> + Purple: Things to Note
+> + Purple: Things to be Noted
 > + Pink: Title of a Minor Concept
 <br>
 
@@ -97,3 +97,4 @@
 5. Constructor Revisited <br>
 &emsp; 1. [Constructor Initializer](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day25(3).pdf)
 &emsp; 2. [Delegating Constructor and Default Constructor](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day26.pdf)
+&emsp; 3. [Implicit Class-Type Conversion](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day26(2).pdf)
