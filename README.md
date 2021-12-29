@@ -5,7 +5,7 @@
 > + Orange: Title of A New Concept
 > + Yellow: Operations/Important Ideas
 > + Red: Warning
-> + Purple: Things to Note
+> + Purple: Things to be Noted
 > + Pink: Title of a Minor Concept
 <br>
 
@@ -86,3 +86,16 @@
 1. Defining Abstract Data Types <br>
 &emsp; 1. [Define struct Class&Keyword this](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day20(2).pdf)
 &emsp; 2. [Define Member Function](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day21.pdf)
+&emsp; 3. [Define Nonmember Function](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day22.pdf)
+&emsp; 4. [Constructors](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day23.pdf)
+2. [Encapsulation](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day23(2).pdf)
+3. Additional Class Features <br>
+&emsp; 1. [Define In-Class Type, Inline Functions, Overloading Functions, and Mutable Members](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day24.pdf)
+&emsp; 2. [Return *this](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day24(2).pdf)
+&emsp; 3. [Class Type and Friendship Revisit](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day25.pdf)
+4. [Class Scope](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day25(2).pdf) <br>
+5. Constructor Revisited <br>
+&emsp; 1. [Constructor Initializer](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day25(3).pdf)
+&emsp; 2. [Delegating Constructor and Default Constructor](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day26.pdf)
+&emsp; 3. [Implicit Class-Type Conversion](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day26(2).pdf)
+6. [Static Class Member](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day27.pdf)
