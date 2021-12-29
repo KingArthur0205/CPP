@@ -98,3 +98,4 @@
 &emsp; 1. [Constructor Initializer](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day25(3).pdf)
 &emsp; 2. [Delegating Constructor and Default Constructor](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day26.pdf)
 &emsp; 3. [Implicit Class-Type Conversion](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day26(2).pdf)
+6. [Static Class Member](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch7%20Classes/%E3%80%90CPP%E3%80%91Day27.pdf)
