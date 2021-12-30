@@ -103,3 +103,5 @@
 1. The IO Class <br>
 &emsp; 1. [Condition States](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch8%20The%20IO%20Library/%E3%80%90CPP%E3%80%91Day27(2).pdf)
 &emsp; 2. [Manage the Output Buffer](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch8%20The%20IO%20Library/%E3%80%90CPP%E3%80%91Day28.pdf)
+2. File Input and Output <br>
+&emsp; 1. [Using ifstream and ofstream by inheritance](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch8%20The%20IO%20Library/%E3%80%90CPP%E3%80%91Day28(2).pdf)
