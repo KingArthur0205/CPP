@@ -107,3 +107,5 @@
 &emsp; 1. [Using ifstream and ofstream by inheritance](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch8%20The%20IO%20Library/%E3%80%90CPP%E3%80%91Day28(2).pdf)
 &emsp; 2. [File Mode](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch8%20The%20IO%20Library/%E3%80%90CPP%E3%80%91Day29.pdf)
 3. [String Streams](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch8%20The%20IO%20Library/%E3%80%90CPP%E3%80%91Day29(2).pdf)
+## Chapter9: Sequential Containers
+1. [Overview of The Sequential Containers](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch9%20Sequential%20Containers/%E3%80%90CPP%E3%80%91Day30.pdf)
