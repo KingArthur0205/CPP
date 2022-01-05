@@ -114,3 +114,5 @@
 &emsp; 2. [Container Type, begin() and end(), and Container Initialization](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch9%20Sequential%20Containers/%E3%80%90CPP%E3%80%91Day31.pdf)
 &emsp; 3. [assign and swap](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch9%20Sequential%20Containers/%E3%80%90CPP%E3%80%91Day32.pdf)
 &emsp; 4. [Container Size Operation and Container Comparison](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch9%20Sequential%20Containers/%E3%80%90CPP%E3%80%91Day32(2).pdf)
+3. Sequential Container Operations <br>
+&emsp; 1. [Element Insertion](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch9%20Sequential%20Containers/%E3%80%90CPP%E3%80%91Day33.pdf)
