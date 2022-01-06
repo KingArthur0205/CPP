@@ -118,3 +118,4 @@
 &emsp; 1. [Element Insertion](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch9%20Sequential%20Containers/%E3%80%90CPP%E3%80%91Day33.pdf)
 &emsp; 2. [Access and Erase Elements](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch9%20Sequential%20Containers/%E3%80%90CPP%E3%80%91Day33(2).pdf)
 &emsp; 3. [Specialized forward_list Operations](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch9%20Sequential%20Containers/%E3%80%90CPP%E3%80%91Day34.pdf)
+&emsp; 4. [Potential Invalid Iterator after Insertion or Addition](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch9%20Sequential%20Containers/%E3%80%90CPP%E3%80%91Day34(2).pdf)
