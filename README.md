@@ -120,3 +120,5 @@
 &emsp; 3. [Specialized forward_list Operations](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch9%20Sequential%20Containers/%E3%80%90CPP%E3%80%91Day34.pdf)
 &emsp; 4. [Potential Invalid Iterator after Insertion or Addition](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch9%20Sequential%20Containers/%E3%80%90CPP%E3%80%91Day34(2).pdf)
 4. [Vector/String Members: reserve, shrink_to_fit, capacity](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch9%20Sequential%20Containers/%E3%80%90CPP%E3%80%91Day35.pdf)
+5. Additional String Operations <br>
+&emsp; 1. [Overloaded insert and erase&append and replace](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch9%20Sequential%20Containers/%E3%80%90CPP%E3%80%91Day35(2).pdf)
