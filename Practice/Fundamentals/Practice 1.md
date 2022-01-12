@@ -10,6 +10,9 @@ Input: 145263 Output: 654321
 Input: 123456789 Output: 987654321
 
 ## Solution 1:
+1. Store every digit of the number into a vector
+2. Sort the vector in descending order.
+3. Reassemble all of the digits into a number.
 ``` cpp
 #include <cinttypes>
 #include <iostream>
@@ -33,5 +36,24 @@ uint64_t descendingOrder(uint64_t a)
   for(auto &digit : vec)
     ret = ret * 10 + digit;
   return ret;
+}
+```
+## Solution 2:
+1. Convert the unsigned number into a string.
+2. Sort the string according to the ASCII code of characters.('9' is greater than '0')
+3. Convert the string back to a number using stoul() or stoull()
+``` cpp
+#include <cinttypes>
+#include <string>
+
+bool desc(char a, char b) {
+  return a > b;
+}
+
+uint64_t descendingOrder(uint64_t a)
+{
+  std::string num = std::to_string(a);
+  sort(num.begin(), num.end(), desc);
+  return std::stoul(num);
 }
 ```
