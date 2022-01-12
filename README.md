@@ -123,3 +123,4 @@
 5. Additional String Operations <br>
 &emsp; 1. [Overloaded insert and erase&append and replace](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch9%20Sequential%20Containers/%E3%80%90CPP%E3%80%91Day35(2).pdf)
 &emsp; 2. [String find, compare, and to numeric value](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch9%20Sequential%20Containers/%E3%80%90CPP%E3%80%91Day36.pdf)
+6. [Adaptors](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch9%20Sequential%20Containers/%E3%80%90CPP%E3%80%91Day37.pdf)
