@@ -128,3 +128,4 @@
 1. [Overview: How the algorithms work?](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch10%20Generic%20Algorithms/%E3%80%90CPP%E3%80%91Day37(2).pdf)
 2. A First Look At the Algorithms <br>
 &emsp; 1. [Read-only Algorithms](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch10%20Generic%20Algorithms/%E3%80%90CPP%E3%80%91Day37(2).pdf)
+&emsp; 2. [Algorithms that Write Containers](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch10%20Generic%20Algorithms/%E3%80%90CPP%E3%80%91Day38.pdf)
