@@ -135,4 +135,5 @@
 &emsp; 2. [Capture Variable by Reference/Value, Implicit Capture, and Mutable Lambda](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch10%20Generic%20Algorithms/%E3%80%90CPP%E3%80%91Day40.pdf)
 &emsp; 3. [Binding Arguments](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch10%20Generic%20Algorithms/%E3%80%90CPP%E3%80%91Day40(2).pdf)
 4. Revisiting Iterator<br>
-&emsp; 1. [insert iterator&IO iterator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch10%20Generic%20Algorithms/%E3%80%90CPP%E3%80%91Day41.pdf)
+&emsp; 1. [Insert Iterator&IO iterator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch10%20Generic%20Algorithms/%E3%80%90CPP%E3%80%91Day41.pdf)
+&emsp; 2. [Reverse Iterator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch10%20Generic%20Algorithms/%E3%80%90CPP%E3%80%91Day42.pdf)
