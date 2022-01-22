@@ -138,3 +138,4 @@
 &emsp; 1. [Insert Iterator&IO iterator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch10%20Generic%20Algorithms/%E3%80%90CPP%E3%80%91Day41.pdf)
 &emsp; 2. [Reverse Iterator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch10%20Generic%20Algorithms/%E3%80%90CPP%E3%80%91Day42.pdf)
 &emsp; 3. [Iterator Categories](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch10%20Generic%20Algorithms/%E3%80%90CPP%E3%80%91Day43.pdf)
+&emsp; 4. [Algorithm Parameter and Naming Patterns&Special Members for List](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch10%20Generic%20Algorithms/%E3%80%90CPP%E3%80%91Day43(2).pdf)
