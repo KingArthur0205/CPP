@@ -150,3 +150,6 @@
 &emsp; 3. [lower_bound, uppoer_bound&equal_range](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch11%20Associative%20Container/%E3%80%90CPP%E3%80%91Day47.pdf)
 &emsp; 4. [Practice: Word Transformation Program](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch11%20Associative%20Container/%E3%80%90CPP%E3%80%91Day48.pdf)
 4. [Unordered Associative Container](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch11%20Associative%20Container/%E3%80%90CPP%E3%80%91Day49.pdf)
+## Chapter12: Dynamic Memory
+1. Dynamic Memory and Smart Pointers <br>
+&emsp; 1. [Allocate Dynamic Memory and Intro to Smart Pointers](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch12%20Dynamic%20Memory/%E3%80%90CPP%E3%80%91Day49(2).pdf)
