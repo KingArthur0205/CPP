@@ -7,7 +7,7 @@ Complete the solution so that it reverses the string passed into it.
 ```
 
 # Solution 1: Double Pointer
-Having two variables that point to the leftmost and rightmost character of the string, swap the characters they hold and have them move towards the center.
+Having two variables that point to the left-most and right-most character of the string, swap the characters they hold and have them move towards the center.
 
 ```cpp
 #include <string>
