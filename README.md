@@ -156,3 +156,4 @@
 &emsp; 2. [Automatic Memory Free&Dynamic Class](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch12%20Dynamic%20Memory/%E3%80%90CPP%E3%80%91Day50.pdf)
 &emsp; 3. [Manage Memory Directly using new and delete](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch12%20Dynamic%20Memory/%E3%80%90CPP%E3%80%91Day51.pdf)
 &emsp; 4. [Smart Pointers&Built-in Pointers](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch12%20Dynamic%20Memory/%E3%80%90CPP%E3%80%91Day51(2).pdf)
+&emsp; 5. [Smart Pointer and Exceptions](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch12%20Dynamic%20Memory/%E3%80%90CPP%E3%80%91Day52.pdf)
