@@ -162,6 +162,6 @@
 2. Dynamic Array <br>
 &emsp; 1. [new Arrays](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch12%20Dynamic%20Memory/%E3%80%90CPP%E3%80%91Day53(3).pdf)
 &emsp; 2. [Destroy Dynamic Arrays&Intro to allocator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch12%20Dynamic%20Memory/%E3%80%90CPP%E3%80%91Day54.pdf)
-## Chapter12 Copy Control
+## Chapter13 Copy Control
 1. Copy, Assign, and Destroy <br>
 &emsp; 1. [Copy Constructor](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch13%20Copy%20Control/%E3%80%90CPP%E3%80%91Day56.pdf)
