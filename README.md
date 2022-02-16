@@ -166,3 +166,4 @@
 1. Copy, Assign, and Destroy <br>
 &emsp; 1. [Copy Constructor](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch13%20Copy%20Control/%E3%80%90CPP%E3%80%91Day56.pdf)
 &emsp; 2. [Copy Assignment Operator and Destructor](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch13%20Copy%20Control/%E3%80%90CPP%E3%80%91Day56(2).pdf)
+&emsp; 3. [Define copy with destructors, indicate synthesized with =default, and =delete](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch13%20Copy%20Control/%E3%80%90CPP%E3%80%91Day57.pdf)
