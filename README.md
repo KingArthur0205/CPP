@@ -170,3 +170,4 @@
 &emsp; 4. [Private Copy Control](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch13%20Copy%20Control/%E3%80%90CPP%E3%80%91Day58.pdf)
 2. [Copy Control and Resource Management: Valuelike and Pointerlike Class](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch13%20Copy%20Control/%E3%80%90CPP%E3%80%91Day58(2).pdf)
 3. [Swap](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch13%20Copy%20Control/%E3%80%90CPP%E3%80%91Day59.pdf)
+4. [Example: Folder and Message](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch13%20Copy%20Control/%E3%80%90CPP%E3%80%91Day60.pdf)
