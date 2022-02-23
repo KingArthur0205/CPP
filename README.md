@@ -172,3 +172,5 @@
 3. [Swap](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch13%20Copy%20Control/%E3%80%90CPP%E3%80%91Day59.pdf)
 4. [Example: Folder and Message](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch13%20Copy%20Control/%E3%80%90CPP%E3%80%91Day60.pdf)
 5. [Class That Manage Resources: StrVec](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch13%20Copy%20Control/%E3%80%90CPP%E3%80%91Day60(2).pdf)
+6. Moving Objects <br>
+&emsp; 1. [Rvalue Reference](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch13%20Copy%20Control/%E3%80%90CPP%E3%80%91Day61.pdf)
