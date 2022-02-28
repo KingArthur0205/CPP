@@ -179,3 +179,4 @@
 1. [Intro to Overloaded Operators](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch14%20Overloaded%20Operations%20and%20Conversions/%E3%80%90CPP%E3%80%91Day63.pdf)
 2. [Overload the Input and Output Operators](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch14%20Overloaded%20Operations%20and%20Conversions/%E3%80%90CPP%E3%80%91Day64.pdf)
 3. [Overloaded Arithmetic, Relational, and Assignment Operator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch14%20Overloaded%20Operations%20and%20Conversions/%E3%80%90CPP%E3%80%91Day64(2).pdf)
+4. [Overloaded Subscript, Decrement, and Increment Operator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch14%20Overloaded%20Operations%20and%20Conversions/%E3%80%90CPP%E3%80%91Day65.pdf)
