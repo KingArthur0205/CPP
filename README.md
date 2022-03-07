@@ -183,3 +183,4 @@
 5. Function Call Operators <br>
 &emsp;1. [Overloaded Member Access and Function Call Operator](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch14%20Overloaded%20Operations%20and%20Conversions/%E3%80%90CPP%E3%80%91Day66.pdf)
 &emsp; 2. [Lambdas are Function Objects](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch14%20Overloaded%20Operations%20and%20Conversions/%E3%80%90CPP%E3%80%91Day67.pdf)
+&emsp; 3. [Library Defined Function Objects](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch14%20Overloaded%20Operations%20and%20Conversions/%E3%80%90CPP%E3%80%91Day68.pdf)
