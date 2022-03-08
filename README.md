@@ -185,6 +185,6 @@
 &emsp; 2. [Lambdas are Function Objects](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch14%20Overloaded%20Operations%20and%20Conversions/%E3%80%90CPP%E3%80%91Day67.pdf)
 &emsp; 3. [Library Defined Function Objects](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch14%20Overloaded%20Operations%20and%20Conversions/%E3%80%90CPP%E3%80%91Day68.pdf)
 ## Chapter 15 OOP
-1. 
+1. [Intro to Inheritance](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day69(3).pdf)
 2. Define Base and Derived Classes
 &emsp; 1. [Define Base Class and Derived-to-Base Conversion](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day70.pdf)
