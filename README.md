@@ -189,3 +189,4 @@
 2. Define Base and Derived Classes <br>
 &emsp; 1. [Define Base Class and Derived-to-Base Conversion](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day70.pdf)
 &emsp; 2. [Derived Class Constructor, Member Using, Static Member, Inheritance Preventing, and Declaration](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day71.pdf)
+&emsp; 3. [Conversion between Base and Derived Class](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day72.pdf)
