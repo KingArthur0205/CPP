@@ -194,6 +194,7 @@
 4. [Abstract Base Class](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day73(2).pdf)
 5. Access Control and Inheritance <br>
 &emsp; 1. [Access to Members and Derived-to-Base Conversion](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day74.pdf)
+&emsp; 2. [Friendship in Inheritance, Exempt Individual Members, and Default Protection](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day74(2).pdf)
 
 # The C Programming Language
 ## Chapter 6 Struct
