@@ -192,3 +192,5 @@
 &emsp; 3. [Conversion between Base and Derived Class](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day72.pdf)
 3. [Override Virtual Functions](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day73.pdf)
 4. [Abstract Base Class](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day73(2).pdf)
+5. Access Control and Inheritance <br>
+&emsp; 1. [Access to Members and Derived-to-Base Conversion](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day74.pdf)
