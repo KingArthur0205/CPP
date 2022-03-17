@@ -1,4 +1,4 @@
-# CPP
+# Study Guide for C/C++
 **My self-study guide on learning CPP**<br>
 *All of the notes are color-coded. Each color stands for a different meaning.*
 > + Blue: Definitions
