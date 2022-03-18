@@ -195,8 +195,10 @@
 5. Access Control and Inheritance <br>
 &emsp; 1. [Access to Members and Derived-to-Base Conversion](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day74.pdf)
 &emsp; 2. [Friendship in Inheritance, Exempt Individual Members, and Default Protection](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day74(2).pdf)
-&emsp; 3. [Class Scope under Inheritence](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day75.pdf)
-
+6. [Class Scope under Inheritence](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day75.pdf)
+7. Constructors and Copy Control <br>
+&emsp; 1. [Virtual Constructor and Synthesized copy, control](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day76.pdf)
+  
 # The C Programming Language
 ## Chapter 6 Struct
 1. [Basics of struct and Operations of struct](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch6%20Struct/%E3%80%90C%E3%80%91Day1.pdf)
