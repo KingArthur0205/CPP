@@ -198,6 +198,8 @@
 6. [Class Scope under Inheritence](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day75.pdf)
 7. Constructors and Copy Control <br>
 &emsp; 1. [Virtual Constructor and Synthesized copy, control](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day76.pdf)
+&emsp; 2. [Derived Class Copy Constructor](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90C%E3%80%91Day77.pdf)
+&emsp; 3. []()
   
 # The C Programming Language
 ## Chapter 6 Struct
