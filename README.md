@@ -200,7 +200,9 @@
 &emsp; 1. [Virtual Constructor and Synthesized copy, control](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90CPP%E3%80%91Day76.pdf)
 &emsp; 2. [Derived Class Copy Constructor](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90C%E3%80%91Day77.pdf)
 &emsp; 3. [Inherited Constructor](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch15%20OOP/%E3%80%90C%E3%80%91Day78.pdf)
-8. Container and Inheritance
+## Chapter 16 Template and Generic Programming
+1. Defining a Template <br>
+&emsp; 1. [Function Templates](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch16%20Template%20and%20Generic%20Programming/%E3%80%90CPP%E3%80%91Day79.pdf)
   
 # The C Programming Language
 ## Chapter 6 Struct
