@@ -213,3 +213,4 @@
 5. [Bit-fields](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch6%20Struct/%E3%80%90C%E3%80%91Day3.pdf)
 ## Chapter 7 Input and Output
 1. [getchar and putchar](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch7%20Input%20and%20Output/%E3%80%90C%E3%80%91Day4(2).pdf)
+2. [printf](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch7%20Input%20and%20Output/%E3%80%90C%E3%80%91Day4(3).pdf)
