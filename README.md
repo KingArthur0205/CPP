@@ -205,3 +205,4 @@
 2. [Array of Structures](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch6%20Struct/%E3%80%90C%E3%80%91Day1(2).pdf)
 3. [Self-Referential Struct: Binary Tree](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch6%20Struct/%E3%80%90C%E3%80%91Day2.pdf)
 4. [Typedef and Struct](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch6%20Struct/%E3%80%90C%E3%80%91Day4.pdf)
+5. [Bit-fields](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch6%20Struct/%E3%80%90C%E3%80%91Day3.pdf)
