@@ -203,6 +203,7 @@
 ## Chapter 16 Template and Generic Programming
 1. Defining a Template <br>
 &emsp; 1. [Function Templates](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch16%20Template%20and%20Generic%20Programming/%E3%80%90CPP%E3%80%91Day79.pdf)
+&emsp; 2. [Class Template](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch16%20Template%20and%20Generic%20Programming/%E3%80%90CPP%E3%80%91Day80.pdf)
   
 # The C Programming Language
 ## Chapter 6 Struct
