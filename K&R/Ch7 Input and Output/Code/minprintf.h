@@ -30,6 +30,7 @@ void minprintf(char *fmt, ...) {
 				printf("%d", ival);
 				break;
 			case 's':
+				// Iterate over the string and put it onto the output stream
 				for(sval = va_arg(ap, char *); *sval; ++sval)
 					putchar(*sval);
 				break;
