@@ -10,6 +10,7 @@ int main(int argc, char* argv[]) {
 		file_copy(stdin, stdout);
 	else {
 		while(--argc >0) {
+			// File open using fopen fails
 			if((fp = fopen(*++argv, "r")) == NULL) {
 				printf("Cannot open: %s\n", *argv);
 				return 1;
