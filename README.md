@@ -217,3 +217,4 @@
 2. [printf](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch7%20Input%20and%20Output/%E3%80%90C%E3%80%91Day4(3).pdf)
 3. [Variable-length Argument List and scanf](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch7%20Input%20and%20Output/%E3%80%90C%E3%80%91Day5.pdf)
 4. [File Access](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch7%20Input%20and%20Output/%E3%80%90C%E3%80%91Day5(2).pdf)
+5. [Error Handling](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch7%20Input%20and%20Output/%E3%80%90C%E3%80%91Day6.pdf)
