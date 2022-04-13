@@ -205,6 +205,7 @@
 &emsp; 1. [Function Templates](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch16%20Template%20and%20Generic%20Programming/%E3%80%90CPP%E3%80%91Day79.pdf)
 &emsp; 2. [Class Template](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch16%20Template%20and%20Generic%20Programming/%E3%80%90CPP%E3%80%91Day80.pdf)
 &emsp; 3. [Definition of Blob](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch16%20Template%20and%20Generic%20Programming/%E3%80%90CPP%E3%80%91Day81.pdf)
+&emsp; 4. [Template Friendship](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch16%20Template%20and%20Generic%20Programming/%E3%80%90CPP%E3%80%91Day81(2).pdf)
   
 # The C Programming Language
 ## Chapter 6 Struct
