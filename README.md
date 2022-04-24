@@ -226,3 +226,4 @@
 ## Chapter 8 The UNIX Interface
 1. [File Descriptor&Low-level Read and Write](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch8%20Unix%20Interface/%E3%80%90C%E3%80%91Day8.pdf)
 2. [Open, Creat, Close, Unlink](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch8%20Unix%20Interface/%E3%80%90C%E3%80%91Day8(2).pdf)
+3. [Lseek and stdio.h](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch8%20Unix%20Interface/%E3%80%90C%E3%80%91Day9.pdf)
