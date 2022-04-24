@@ -207,6 +207,8 @@
 &emsp; 3. [Definition of Blob](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch16%20Template%20and%20Generic%20Programming/%E3%80%90CPP%E3%80%91Day81.pdf)
 &emsp; 4. [Template Friendship](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch16%20Template%20and%20Generic%20Programming/%E3%80%90CPP%E3%80%91Day81(2).pdf)
 2. [Overloading and Templates](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch16%20Template%20and%20Generic%20Programming/%E3%80%90CPP%E3%80%91Day82.pdf)
+3. Variadic Template
+&emsp; 1. [Definition of Variadic Template](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch16%20Template%20and%20Generic%20Programming/%E3%80%90CPP%E3%80%91Day83.pdf)
   
 # The C Programming Language
 ## Chapter 6 Struct
