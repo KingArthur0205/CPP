@@ -209,7 +209,10 @@
 2. [Overloading and Templates](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch16%20Template%20and%20Generic%20Programming/%E3%80%90CPP%E3%80%91Day82.pdf)
 3. [Variadic Template](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch16%20Template%20and%20Generic%20Programming/%E3%80%90CPP%E3%80%91Day83.pdf)
  4. [Specialized Template](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch16%20Template%20and%20Generic%20Programming/%E3%80%90CPP%E3%80%91Day84.pdf)
-  
+## Chapter 17 Specialized Library Facilities
+1. The tuple Type <br>
+&emsp; 1. [Defining and Initializing tuples](https://github.com/KingArthur0205/CPP/blob/main/CPP%20Primer%20Notes/Ch17%20Specialized%20Library%20Facilities/%E3%80%90CPP%E3%80%91Day85(2).pdf)
+ 
 # The C Programming Language
 ## Chapter 6 Struct
 1. [Basics of struct and Operations of struct](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch6%20Struct/%E3%80%90C%E3%80%91Day1.pdf)
