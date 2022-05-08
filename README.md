@@ -232,3 +232,8 @@
 1. [File Descriptor&Low-level Read and Write](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch8%20Unix%20Interface/%E3%80%90C%E3%80%91Day8.pdf)
 2. [Open, Creat, Close, Unlink](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch8%20Unix%20Interface/%E3%80%90C%E3%80%91Day8(2).pdf)
 3. [Lseek and stdio.h](https://github.com/KingArthur0205/CPP/blob/main/K%26R/Ch8%20Unix%20Interface/%E3%80%90C%E3%80%91Day9.pdf)
+
+ # Effective C++
+ ## Chapter 1: Accustoming to C++
+ 
+ 2. [Item 3: Use const Whenever Possible](https://github.com/KingArthur0205/CPP/blob/main/Effective%20C%2B%2B/Ch1%20Getting%20Accustomed%20to%20C%2B%2B/%E3%80%90Effective_CPP%E3%80%91Day2.pdf)
