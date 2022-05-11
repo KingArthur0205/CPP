@@ -235,6 +235,8 @@
 
  # Effective C++
  ## Chapter 1: Accustoming to C++
- 1. [Prefer const, enums, and inlines to #define](https://github.com/KingArthur0205/CPP/blob/main/Effective%20C%2B%2B/Ch1%20Getting%20Accustomed%20to%20C%2B%2B/%E3%80%90Effective_CPP%E3%80%91Day1.pdf)
+ 1. [Item 2: Prefer const, enums, and inlines to #define](https://github.com/KingArthur0205/CPP/blob/main/Effective%20C%2B%2B/Ch1%20Getting%20Accustomed%20to%20C%2B%2B/%E3%80%90Effective_CPP%E3%80%91Day1.pdf)
  2. [Item 3: Use const Whenever Possible](https://github.com/KingArthur0205/CPP/blob/main/Effective%20C%2B%2B/Ch1%20Getting%20Accustomed%20to%20C%2B%2B/%E3%80%90Effective_CPP%E3%80%91Day2.pdf)
 3. [Item 4: Make sure objects are initialized before they are used](https://github.com/KingArthur0205/CPP/blob/main/Effective%20C%2B%2B/Ch1%20Getting%20Accustomed%20to%20C%2B%2B/%E3%80%90Effective_CPP%E3%80%91Day3.pdf)
+## Chapter 2: Constructors, Destructors, and Assignment Operators
+1. [Item 5: Know what functions C++ silently writes and calls](https://github.com/KingArthur0205/CPP/blob/main/Effective%20C%2B%2B/Ch2%20Constructors%2C%20Destructors%2C%20and%20Assignment%20Operators/%E3%80%90Effective_CPP%E3%80%91Day4.pdf)
