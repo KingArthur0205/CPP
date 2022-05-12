@@ -241,4 +241,5 @@
 ## Chapter 2: Constructors, Destructors, and Assignment Operators
 1. [Item 5: Know what functions C++ silently writes and calls](https://github.com/KingArthur0205/CPP/blob/main/Effective%20C%2B%2B/Ch2%20Constructors%2C%20Destructors%2C%20and%20Assignment%20Operators/%E3%80%90Effective_CPP%E3%80%91Day4.pdf)
 2. [Item 6: Explicitly disallow the use of copmiler-generated functions we do not want](https://github.com/KingArthur0205/CPP/blob/main/Effective%20C%2B%2B/Ch2%20Constructors%2C%20Destructors%2C%20and%20Assignment%20Operators/%E3%80%90Effective_CPP%E3%80%91Day4(2).pdf)
-3. [Item 9: Don't call virtual functions in constructors or destructors](https://github.com/KingArthur0205/CPP/blob/main/Effective%20C%2B%2B/Ch2%20Constructors%2C%20Destructors%2C%20and%20Assignment%20Operators/%E3%80%90Effective_CPP%E3%80%91Day5(2).pdf)
+3. [Item 7: Declare destructors virtual in polymorphic base classes](https://github.com/KingArthur0205/CPP/blob/main/Effective%20C%2B%2B/Ch2%20Constructors%2C%20Destructors%2C%20and%20Assignment%20Operators/%E3%80%90Effective_CPP%E3%80%91Day5.pdf)
+4. [Item 9: Don't call virtual functions in constructors or destructors](https://github.com/KingArthur0205/CPP/blob/main/Effective%20C%2B%2B/Ch2%20Constructors%2C%20Destructors%2C%20and%20Assignment%20Operators/%E3%80%90Effective_CPP%E3%80%91Day5(2).pdf)
