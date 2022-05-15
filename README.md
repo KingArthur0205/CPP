@@ -246,3 +246,5 @@
 5. [Item 10: Have assignment operators return a reference to *this](https://github.com/KingArthur0205/CPP/blob/main/Effective%20C%2B%2B/Ch2%20Constructors%2C%20Destructors%2C%20and%20Assignment%20Operators/%E3%80%90Effective_CPP%E3%80%91Day6.pdf)
 6. [Item 11: Handle assignment to self in operator=](https://github.com/KingArthur0205/CPP/blob/main/Effective%20C%2B%2B/Ch2%20Constructors%2C%20Destructors%2C%20and%20Assignment%20Operators/%E3%80%90Effective_CPP%E3%80%91Day6.pdf)
 7. [Item 12: Copy all parts of an object](https://github.com/KingArthur0205/CPP/blob/main/Effective%20C%2B%2B/Ch2%20Constructors%2C%20Destructors%2C%20and%20Assignment%20Operators/%E3%80%90Effective_CPP%E3%80%91Day6(2).pdf)
+## Chapter 3: Resource Management
+1. [Use Objects to Manage Resource: auto_ptr and shared_ptr](https://github.com/KingArthur0205/CPP/blob/main/Effective%20C%2B%2B/Ch3%20Resource%20Management/%E3%80%90Effective_CPP%E3%80%91Day7.pdf)
